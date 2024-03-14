@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\bin\Debug\ödev öğrenci kaydı.exe.config
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\bin\Debug\ödev öğrenci kaydı.exe
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\bin\Debug\ödev öğrenci kaydı.pdb
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev öğrenci kaydı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev_öğrenci_kaydı.Form1.resources
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev_öğrenci_kaydı.Properties.Resources.resources
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev öğrenci kaydı.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev öğrenci kaydı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev öğrenci kaydı.exe
+C:\Users\user\source\repos\ödev öğrenci kaydı\ödev öğrenci kaydı\obj\Debug\ödev öğrenci kaydı.pdb
